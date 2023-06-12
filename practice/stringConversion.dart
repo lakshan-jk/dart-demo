@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   var s1 = 'single quotes for string literals';
   var s2 = "Double quotes work just as it is";
